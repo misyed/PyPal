@@ -3,7 +3,11 @@
 This is a **one-off extended version** of the Wi-Fi trace synchronisation and merging tool [**PyPal**](https://gitlab.lip6.fr/syed/pypal), developed during the author’s Ph.D. research.  
 This version introduces performance improvement and a graphical user interface (GUI) to simplify execution.
 
-This project is **not actively maintained** and is released for research and academic use.
+---
+
+## Disclaimer
+
+This project is **not actively maintained** and is released for research and academic use under the licence [GNU General Public License v3.0](https://spdx.org/licenses/GPL-3.0-or-later.html) or later. Use of this code is at your own discretion, and we encourage you to exercise caution and discretion in its adaptation.
 
 ---
 
@@ -90,9 +94,3 @@ The GUI version allows users to:
 ## License
 
 This project is licensed under the GNU General Public License v3.0 or later, consistent with the original PyPal tool.
-
----
-
-## Disclaimer
-
-This tool is intended for research and experimental use. Use of this code is at your own discretion, and we encourage you to exercise caution and discretion in its adaptation.
