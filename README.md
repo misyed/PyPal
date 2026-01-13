@@ -1,7 +1,6 @@
 # PyPal: Wi-Fi Trace Synchronisation and Merging Tool
 
-This is a **one-off extended version** of the Wi-Fi trace synchronisation and merging tool [**PyPal**](https://gitlab.lip6.fr/syed/pypal), developed during the author’s Ph.D. research.  
-This version introduces performance improvement and a graphical user interface (GUI) to simplify execution.
+This is a **one-off extended version** of the Wi-Fi trace synchronisation and merging tool [**PyPal**](https://gitlab.lip6.fr/syed/pypal), developed during the author’s Ph.D. research. This version introduces performance efficiency and a graphical user interface (GUI) to simplify execution.
 
 ---
 
