@@ -14,8 +14,7 @@ The original PyPal tool was developed within the ANR MITIK project and is partia
 Original repository:  
 https://gitlab.lip6.fr/syed/pypal  
 
-Technical report (contains the algorithmic details):
-
+Technical report (contains the algorithmic details):  
 https://hal.science/hal-03618014v5
 
 ---
