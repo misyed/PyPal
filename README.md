@@ -1,7 +1,7 @@
-# PyPal: Wi-Fi Trace Synchronization and Merging Tool
+# PyPal: Wi-Fi Trace Synchronisation and Merging Tool
 
-This is a **one-off extended version** of the Wi-Fi trace synchronisation and merging tool [**PyPal**](https://gitlab.lip6.fr/syed/pypal), developed during the author’s PhD research.  
-This version introduces performance improvements and a graphical user interface (GUI) to simplify execution.
+This is a **one-off extended version** of the Wi-Fi trace synchronisation and merging tool [**PyPal**](https://gitlab.lip6.fr/syed/pypal), developed during the author’s Ph.D. research.  
+This version introduces performance improvement and a graphical user interface (GUI) to simplify execution.
 
 This project is **not actively maintained** and is released for research and academic use.
 
@@ -54,7 +54,7 @@ python3 pypal.py -h
 
 ### Positional Arguments
 
-- trace1 — trace to be synchronized
+- trace1 — trace to be synchronised
 - trace2 — reference trace
 
 ### Optional Arguments
@@ -63,14 +63,14 @@ python3 pypal.py -h
 
 - -U Extract unique frames
 - -R Extract unique reference frames
-- -SR Synchronize unique reference frames
-- -S Synchronize traces
+- -SR Synchronise unique reference frames
+- -S Synchronise traces
 - -C Concatenate traces and keep duplicate frames
 - -M Merge traces and remove duplicate frames within a 106 µs time window
 
 Example
 
-Synchronize two traces:
+Synchronise two traces:
 ```bash
 python3 pypal.py trace1.csv trace2.csv -S
 ```
