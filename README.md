@@ -9,12 +9,13 @@ This project is **not actively maintained** and is released for research and aca
 
 ## Background
 
-The original PyPal tool was developed within the ANR MITIK project and is partially related to Mohammad Imran Syed's Ph.D. thesis titled [*Wireless passive measurements: tool, redundancy, measurements, and analyses*](https://theses.hal.science/tel-04258062)
+The original PyPal tool was developed within the ANR MITIK project and is partially related to Mohammad Imran Syed's Ph.D. thesis titled ["Wireless passive measurements: tool, redundancy, measurements, and analyses"](https://theses.hal.science/tel-04258062)
 
 Original repository:  
 https://gitlab.lip6.fr/syed/pypal  
 
 Technical report (contains the algorithmic details):
+
 https://hal.science/hal-03618014v5
 
 ---
