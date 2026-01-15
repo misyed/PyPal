@@ -87,8 +87,7 @@ python3 pypal.py -h
 - trace1 — trace to be synchronised
 - trace2 — reference trace
 
-### Optional Arguments
-
+### Operation Mode (required — select one)
 (Only one option can be used at a time.)
 
 - -U Extract unique frames
