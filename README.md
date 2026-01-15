@@ -114,6 +114,9 @@ The GUI version allows users to:
 - Select one of the available processing modes
 - Execute the process while showing the progress
 
+<img width="821" height="661" alt="image" src="https://github.com/user-attachments/assets/bdef35b3-1f7d-44b1-86f8-ee20926569ff" />
+
+
 ---
 
 ## License
