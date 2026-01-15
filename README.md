@@ -12,7 +12,7 @@ This project is **not actively maintained** and is released for research and aca
 
 ## Background
 
-The original PyPal tool was developed within the ANR MITIK project and is partially related to Mohammad Imran Syed's Ph.D. thesis titled ["Wireless passive measurements: tool, redundancy, measurements, and analyses"](https://theses.hal.science/tel-04258062)
+The original PyPal tool was developed within the ANR MITIK project and is partially related to Mohammad Imran Syed's Ph.D. thesis titled ["Wireless passive measurements: tool, redundancy, measurements, and analyses"].(https://theses.hal.science/tel-04258062)
 
 Original repository:  
 https://gitlab.lip6.fr/syed/pypal  
@@ -67,8 +67,8 @@ It is recommended to use tshark version 3.2.3 or lower. Version 4.2.5, for examp
 Python 3 is required.
 
 ```bash
-git clone https://github.com/misyed/pypal
-cd pypal-gui
+git clone https://github.com/misyed/PyPal
+cd PyPal
 pip install -r requirements.txt
 ```
 
